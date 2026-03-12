@@ -231,6 +231,10 @@ From this project I learned:
 ![Proxmox Network Configuration](images/sslast.png)
 
 
+## Why This Project Matters
+
+This project helped me build hands-on experience with hardware validation, BIOS configuration, installation media troubleshooting, Proxmox deployment, and virtual machine creation. It also strengthened my understanding of how virtualization platforms support cybersecurity lab environments.
+
 ---
 
 ## Next Steps
