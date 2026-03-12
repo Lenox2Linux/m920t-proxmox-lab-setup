@@ -207,6 +207,31 @@ From this project I learned:
 - the importance of documenting technical work
 
 ---
+## Build Process Screenshots
+
+### Lenovo M920 Hardware
+![Lenovo M920 Hardware](images/m920-hardware.jpeg)
+
+### BIOS UEFI Configuration
+![BIOS UEFI Settings](images/bios-uefi-settings.jpeg)
+
+### BIOS Boot Order
+![BIOS Boot Order](images/bios-boot-order.jpeg)
+
+### Proxmox Installer
+![Proxmox Installer](images/proxmox-installer.jpeg)
+
+### Flashing Proxmox ISO with BalenaEtcher
+![BalenaEtcher USB Flash](images/balenaetcher-usb-flash.jpeg)
+
+### Repairing USB Drive Using DiskPart
+![DiskPart USB Repair](images/diskpart-usb-clean.jpeg)
+
+### Proxmox Network Configuration
+![Proxmox Network Configuration](images/proxmox-network-config.jpeg)
+
+
+---
 
 ## Next Steps
 
