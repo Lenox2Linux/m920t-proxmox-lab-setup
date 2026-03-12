@@ -228,7 +228,7 @@ From this project I learned:
 ![DiskPart USB Repair](images/diskpart-usb-clean.jpeg)
 
 ### Proxmox Network Configuration
-![Proxmox Network Configuration](images/proxmox-network-config.jpeg)
+![Proxmox Network Configuration](images/sslast.png)
 
 
 ---
